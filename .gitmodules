@@ -1,6 +1,7 @@
 [submodule "my_submodule"]
 	path = my_submodule
 	url = git@github.com:dhhiep/demo-git-sub-module-child.git
+	branch = xxx
 [submodule "my_submodule_2"]
 	path = my_submodule_2
 	url = git@github.com:dhhiep/demo-git-sub-module-child-2.git
